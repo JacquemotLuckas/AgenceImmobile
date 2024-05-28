@@ -49,3 +49,5 @@ L'API est décomposé en plusieurs fichiers PHP ayant chacun une ou plusieurs fo
                                     En POST, créer un etat des Lieux en fournissant (idPiece, idReservation, note et commentaire), la date utiliser et celle du jour.
 - etatEquipement.php (GET & POST) : En GET, récupère les états des equipement en rapport à un état des Lieux.
                                     En POST, créer un état de l'équipement en fournissant idEtatLieux, idEquipement, note et commentaire.
+
+Original : https://github.com/Jasskill/AgenceImmobile
